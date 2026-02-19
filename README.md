@@ -3,3 +3,22 @@
 This repository contains the template rust project used for the refactoring assignment of ECE 421 at the University of Alberta. The answers to the written questions can be found in the assignment-5-answers.pdf file.
 
 ---
+
+## Running the Tests
+
+Run tests separately in each question folder:
+
+```bash
+cd q1
+cargo build
+cargo run
+
+cd ../q2
+cargo build
+cargo run
+
+cd ../q3
+cargo build
+cargo run
+```
+---
